@@ -1,1 +1,2 @@
-This is the answer to "What is XYZ?".
+Please read through the documents on ISED website.
+
