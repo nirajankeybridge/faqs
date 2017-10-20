@@ -1,2 +1,2 @@
-As long as your operation is licensed and registered with proper parameters on the portal, it will be protected accordingly against other operations registered on the site.
+As long as your operation is licensed and registered on the portal with proper parameters, it will be protected accordingly against other operations registered on the site.
 
