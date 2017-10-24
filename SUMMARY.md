@@ -7,4 +7,5 @@
 * [Is my transmission protected from interference while I’m using TVWS?](is-my-transmission-protected-from-interference-while-im-using-tvws.md)
 * [How do I register my operation\(s\)?](how-do-i-register-my-operations.md)
 * [What are the relevant documents for TVWS in Canada?](what-are-the-relevant-documents-for-tvws-in-canada.md)
+* [Which whitespace channels are available for different device \(WSD\) types?](which-whitespace-channels-are-available-for-different-device-wsd-types.md)
 
