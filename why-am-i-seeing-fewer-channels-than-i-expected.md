@@ -1,20 +1,14 @@
-This is most likely due to separation distances.
+This is most likely due to separation distances that are mandated in addition to the protection contours.
 
+#### What are contours?
 
+There are contours around transmitters inside of which the transmitter is entitled to protection from interference. Contours are determined as described in [DBS-01 Annex B - Determination of the TV Broadcast Protected Contour](http://www.ic.gc.ca/eic/site/smt-gst.nsf/eng/sf10928.html#sB)
 
-What are contours?
+#### What is a separation distance \(SD\)?
 
-There are contours around transmitters inside of which the transmitter is entitled to protection from interference. Contours are determined as described in DBS-01 Annex B - Determination of the TV Broadcast Protected Contour
-
-
-
-What is a separation distance \(SD\)?
-
-In addition to the contours, additional separation distance are mandated in order to protect customers who are at the edge of the contour. 
+In addition to the contours, additional separation distance are mandated in order to protect customers who are at the edge of the contour.
 
 The separation distances are outlined in DBS-01 sections 9.3, 10, 11, and 12
 
-Details regarding how separation distances are calculated 
-
-There are some mandated separation distances from actual contour, and not up to the contour, in order to protect customers who are at the edge of the contour.
+Details regarding how separation distances are calculated are available in [DBS-01 Annex C — Methodology on the Derivation of the Required Separation Distance to the TV Broadcast and RRBS Contours](http://www.ic.gc.ca/eic/site/smt-gst.nsf/eng/sf10928.html#sC)
 
