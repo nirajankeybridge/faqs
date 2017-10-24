@@ -11,4 +11,5 @@
 * [What devices are available in the market?](what-devices-are-available-in-my-market.md)
 * [How do I confirm registration and details of my station?](how-do-i-confirm-registration-and-details-of-my-station.md)
 * [What channels are available at my location?](what-channels-are-available-at-my-location.md)
+* Why am I seeing fewer channels than I expected?
 

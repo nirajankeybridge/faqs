@@ -1,0 +1,8 @@
+This is most likely due to separation distances.
+
+In DBS-01 sections 9.3, 10, 11, and 12, separation distances required around each station are delineated. There are some mandated separation distances from actual contour, and not up to the contour, in order to protect 
+
+What is  separation distance \(SD\)?
+
+
+
