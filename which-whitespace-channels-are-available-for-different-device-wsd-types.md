@@ -23,3 +23,7 @@ A WSDB shall only provide available channels, depending on the type of WSD \(fix
 
 
 
+\* Above information excerpted for your convenience from "[DBS-01 - White Space Database Specifications](http://www.ic.gc.ca/eic/site/smt-gst.nsf/eng/sf10928.html)" document at [http://www.ic.gc.ca/eic/site/smt-gst.nsf/eng/sf10928.html](http://www.ic.gc.ca/eic/site/smt-gst.nsf/eng/sf10928.html)
+
+
+
