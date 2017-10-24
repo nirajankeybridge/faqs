@@ -16,4 +16,5 @@
 * [What information are required for RRBS Base Stations?](what-information-are-required-for-rrbs-base-stations.md)
 * [What information is required for Low Power Apparatus \(LPA\)?](what-information-is-required-for-low-power-apparatus-lpa.md)
 * [I did not find answer to my question here. What do I do next?](i-did-not-find-answer-to-my-question-here-what-do-i-do-next.md)
+* [What are the radio astronomy sites and observatories protected?](what-are-the-radio-astronomy-sites-and-observatories-protected.md)
 
