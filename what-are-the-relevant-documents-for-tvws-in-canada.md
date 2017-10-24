@@ -1,4 +1,4 @@
-The current issues of the following documents are applicable and available on the [Spectrum Management and Telecommunications website](http://www.ic.gc.ca/spectrum) at: http://www.ic.gc.ca/spectrum.
+The current issues of the following documents are applicable and available on the [Spectrum Management and Telecommunications website](http://www.ic.gc.ca/spectrum) at: [http://www.ic.gc.ca/spectrum](http://www.ic.gc.ca/spectrum).
 
 * [**CPC-4-1-01**](http://www.ic.gc.ca/eic/site/smt-gst.nsf/eng/sf10927.html) — Application Procedures for TV White Space Database Administrators \(TVWS Database Administrators\)
 * [**RSS-222**](http://www.ic.gc.ca/eic/site/smt-gst.nsf/eng/sf10930.html) — White Space Devices \(WSDs\)
@@ -14,5 +14,5 @@ The current issues of the following documents are applicable and available on th
 * [Access to Information Act](http://laws-lois.justice.gc.ca/eng/acts/a-1/)
 * [Personal Information Protection and Electronic Documents Act \(PIPEDA\)](https://www.priv.gc.ca/leg_c/leg_c_p_e.asp)
 
-\*Above information excerpted for your convenience from DBS01 document at [http://www.ic.gc.ca/eic/site/smt-gst.nsf/eng/sf10928.html](http://www.ic.gc.ca/eic/site/smt-gst.nsf/eng/sf10928.html)
+\*Above information excerpted for your convenience from [DBS01](http://www.ic.gc.ca/eic/site/smt-gst.nsf/eng/sf10928.html) document at [http://www.ic.gc.ca/eic/site/smt-gst.nsf/eng/sf10928.html](http://www.ic.gc.ca/eic/site/smt-gst.nsf/eng/sf10928.html)
 
