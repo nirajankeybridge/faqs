@@ -1,4 +1,4 @@
-The frequency bands/channels authorized for use by WSDs are shown in Table 1.
+The frequency bands/channels authorized for use by WSDs are shown in Table 1 below:
 
 | Frequency Bands \(MHz\) | TV Channels | Personal/Portable WSD | Fixed WSD |
 | :--- | :--- | :--- | :--- |
@@ -11,20 +11,15 @@ The frequency bands/channels authorized for use by WSDs are shown in Table 1.
 | 608-614 | 37[\*\*](http://www.ic.gc.ca/eic/site/smt-gst.nsf/eng/sf10928.html#t1n2) | Not permitted | Not permitted |
 | 614-698 | 38-51 | ✓ | ✓ |
 
-## Table notes
-
-Table note 1
+##### Table notes
 
 \* Channels 3 and 4 \(60-72 MHz\) have been excluded from the list due to the use of these channels by consumer electronic devices in North America.
 
-
-
-Table note 2
-
 \*\* Channel 37 \(608-614 MHz\) has been excluded to protect the operation of radio astronomy and wireless medical telemetry.
+
+
 
 A WSDB shall only provide available channels, depending on the type of WSD \(fixed or personal/portable\) under discussion, from among those listed above. The availability of channels will be subject to the constraints related to the location and use of active TV broadcast stations and remote rural broadband systems.
 
-  
 
 
