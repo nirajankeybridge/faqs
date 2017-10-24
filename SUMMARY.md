@@ -15,4 +15,5 @@
 * [What details are required about TV broadcast stations?](what-details-are-required-about-tv-broadcast-stations.md)
 * [I did not find answer to my question here. What do I do next?](i-did-not-find-answer-to-my-question-here-what-do-i-do-next.md)
 * [What information are required for RRBS Base Stations?](what-information-are-required-for-rrbs-base-stations.md)
+* [What information is required for Low Power Apparatus \(LPA\)?](what-information-is-required-for-low-power-apparatus-lpa.md)
 
