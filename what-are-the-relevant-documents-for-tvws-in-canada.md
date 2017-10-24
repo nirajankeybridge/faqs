@@ -14,5 +14,7 @@ The current issues of the following documents are applicable and available on th
 * [Access to Information Act](http://laws-lois.justice.gc.ca/eng/acts/a-1/)
 * [Personal Information Protection and Electronic Documents Act \(PIPEDA\)](https://www.priv.gc.ca/leg_c/leg_c_p_e.asp)
 
-\*Above information excerpted for your convenience from [DBS01](http://www.ic.gc.ca/eic/site/smt-gst.nsf/eng/sf10928.html) document at [http://www.ic.gc.ca/eic/site/smt-gst.nsf/eng/sf10928.html](http://www.ic.gc.ca/eic/site/smt-gst.nsf/eng/sf10928.html)
+\* Above information excerpted for your convenience from "[DBS-01 - White Space Database Specifications](http://www.ic.gc.ca/eic/site/smt-gst.nsf/eng/sf10928.html)" document at [http://www.ic.gc.ca/eic/site/smt-gst.nsf/eng/sf10928.html](http://www.ic.gc.ca/eic/site/smt-gst.nsf/eng/sf10928.html)
+
+
 
