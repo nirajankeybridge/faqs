@@ -12,3 +12,9 @@ The separation distances are outlined in DBS-01 sections [9.3](http://www.ic.gc.
 
 Details regarding how separation distances are calculated are available in [DBS-01 Annex C — Methodology on the Derivation of the Required Separation Distance to the TV Broadcast and RRBS Contours](http://www.ic.gc.ca/eic/site/smt-gst.nsf/eng/sf10928.html#sC)
 
+#### What is a separation contour?
+
+A contour resulting from the sum of the protected contour and the separation distance which together define a new and larger contour.
+
+
+
