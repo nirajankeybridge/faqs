@@ -35,5 +35,9 @@ Online registration of LPA can be facilitated by directly accessing designated W
 
 \(d\) All registrations shall be considered public.
 
+
+
+Footnote 2: For an LPA that is used on a fixed basis, the WSDB shall only allow the registration of the frequency or frequencies specified on the licence. For ENG-type LPA it is not necessary to perform this check.
+
 _Above information extracted from DBS-01 at _[http://www.ic.gc.ca/eic/site/smt-gst.nsf/eng/sf10928.html\#s7.2.3](http://www.ic.gc.ca/eic/site/smt-gst.nsf/eng/sf10928.html#s7.2.3)
 
