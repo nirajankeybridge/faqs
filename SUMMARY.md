@@ -24,4 +24,5 @@
 * [What is Industry Canada Identification \(IC ID\) and Device Type Identifier?](what-is-industry-canada-identification-ic-id-and-device-type-identifier.md)
 * [What is a White Space Database \(WSDB\) and White Space Database Administrator \(WSDBA\)?](what-is-a-white-space-database-wsdb-and-white-space-database-administrator-wsdba.md)
 * [What are Remote Rural Broadband Systems \(RRBS\)?](what-are-remote-rural-broadband-systems-rrbs.md)
+* [What is an Low-power apparatus \(LPA\)?](what-is-an-low-power-apparatus-lpa.md)
 

@@ -1,0 +1,2 @@
+**Low-power apparatus \(LPA\): **Examples of low-power apparatus \(LPA\) include wireless microphones and wireless cameras, systems for cue and control communications, as well as synchronization of video camera signals. Low-power FM transmitters may also be included in this category, but their use is restricted and is only authorized for operation under specific conditions. LPA may be limited to a particular location \(fixed\) or used on a Canada-wide or province-wide basis \(Electronic News Gathering \(ENG\) type\), depending on its licence.
+
