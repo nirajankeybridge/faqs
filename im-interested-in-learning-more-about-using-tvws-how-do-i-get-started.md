@@ -1,4 +1,6 @@
-Thank you for your interest in TV white space \(TVWS\). Here are some basic definitions:
+Thank you for your interest in TV white space \(TVWS\). 
+
+Here are some basic definitions:
 
 **Dynamic Spectrum Access: **A technique by which a radio system dynamically adapts to the local radio spectrum environment in order to determine — and then access — available channels at specific locations.
 
