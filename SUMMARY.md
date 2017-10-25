@@ -25,4 +25,5 @@
 * [What are Remote Rural Broadband Systems \(RRBS\)?](what-are-remote-rural-broadband-systems-rrbs.md)
 * [What is an Low-power apparatus \(LPA\)?](what-is-an-low-power-apparatus-lpa.md)
 * [I did not find answer to my question here. What do I do next?](i-did-not-find-answer-to-my-question-here-what-do-i-do-next.md)
+* [What information is required for Fixed WSD Registration?](what-information-is-required-for-fixed-wsd-registration.md)
 
