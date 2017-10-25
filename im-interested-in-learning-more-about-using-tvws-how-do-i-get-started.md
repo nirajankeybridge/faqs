@@ -1,4 +1,6 @@
-Thank you for your interest in TV white space.
+Thank you for your interest in TV white space. Please familiarize with the following for the basics.
+
+**Dynamic Spectrum Access: **A technique by which a radio system dynamically adapts to the local radio spectrum environment in order to determine — and then access — available channels at specific locations.
 
 **White Space \(WS\): **Part of the spectrum that is, or has become, available for radiocommunication by radio systems at a specific time period and in a given geographical area.
 
