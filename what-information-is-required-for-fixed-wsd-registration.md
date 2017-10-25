@@ -14,3 +14,5 @@ The registration information shall be considered public.
 
 Prior to registering a WSD for the first time, a WSDB shall verify that the above-mentioned information for the registration is complete and that a verified email address has been provided by the fixed WSD user.
 
+_Above information extracted from DBS-01 at _[http://www.ic.gc.ca/eic/site/smt-gst.nsf/eng/sf10928.html\#s7.2.1](http://www.ic.gc.ca/eic/site/smt-gst.nsf/eng/sf10928.html#s7.2.1)
+
