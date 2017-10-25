@@ -20,4 +20,5 @@
 * [I did not find answer to my question here. What do I do next?](i-did-not-find-answer-to-my-question-here-what-do-i-do-next.md)
 * [What is the Far Side of a Protected Contour?](what-is-the-far-side-of-a-protected-contour.md)
 * [What is a TV Receive Site \(TVRX\)?](what-is-a-tv-receive-site-tvrx.md)
+* [What is a White Space Device \(WSD\)?  What are different types/categories of White Space Devices \(WSDs\)?](what-is-a-white-space-device-wsd-what-are-different-types-categories-of-white-space-devices-wsds.md)
 
