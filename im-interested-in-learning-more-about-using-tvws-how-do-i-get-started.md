@@ -1,4 +1,4 @@
-Thank you for your interest in TV white space \(TVWS\). 
+Thank you for your interest in TV white space \(TVWS\).
 
 Here are some basic definitions:
 
@@ -12,5 +12,5 @@ Here are some basic definitions:
 
 **White Space Device \(WSD\): **A radio apparatus that operates in the WS frequency bands using dynamic spectrum access techniques.
 
-You can find more information on the television white space database \(DBS-01\) and equipment \(RSS-222\) specifications on the [ISED white space website](http://www.ic.gc.ca/eic/site/smt-gst.nsf/eng/h_sf10498.html).
+You can find more information on the [television white space database \(DBS-01\)](http://www.ic.gc.ca/eic/site/smt-gst.nsf/eng/sf10928.html) and equipment [\(RSS-222\) specifications](http://www.ic.gc.ca/eic/site/smt-gst.nsf/eng/sf10930.html) on the [ISED white space website](http://www.ic.gc.ca/eic/site/smt-gst.nsf/eng/h_sf10498.html).
 
