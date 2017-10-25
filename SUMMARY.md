@@ -11,7 +11,7 @@
 * [What devices are available in the market?](what-devices-are-available-in-my-market.md)
 * [How do I confirm registration and details of my station?](how-do-i-confirm-registration-and-details-of-my-station.md)
 * [What channels are available at my location?](what-channels-are-available-at-my-location.md)
-* [Why am I seeing fewer channels than I expected?](why-am-i-seeing-fewer-channels-than-i-expected.md)
+* [Why am I seeing fewer channels than I expected? What is the Separation Distance?](why-am-i-seeing-fewer-channels-than-i-expected.md)
 * [What details are required about TV broadcast stations?](what-details-are-required-about-tv-broadcast-stations.md)
 * [What information are required for RRBS Base Stations?](what-information-are-required-for-rrbs-base-stations.md)
 * [What information is required for Low Power Apparatus \(LPA\)?](what-information-is-required-for-low-power-apparatus-lpa.md)
