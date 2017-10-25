@@ -17,7 +17,6 @@
 * [What information is required for Low Power Apparatus \(LPA\)?](what-information-is-required-for-low-power-apparatus-lpa.md)
 * [What are the radio astronomy sites and observatories protected?](what-are-the-radio-astronomy-sites-and-observatories-protected.md)
 * [What is HAAT and how is HAAT calculated?](what-is-haat-and-how-is-haat-calculated.md)
-* [I did not find answer to my question here. What do I do next?](i-did-not-find-answer-to-my-question-here-what-do-i-do-next.md)
 * [What is the Far Side of a Protected Contour?](what-is-the-far-side-of-a-protected-contour.md)
 * [What is a TV Receive Site \(TVRX\)?](what-is-a-tv-receive-site-tvrx.md)
 * [What is a White Space Device \(WSD\)?  What are different types/categories of White Space Devices \(WSDs\)?](what-is-a-white-space-device-wsd-what-are-different-types-categories-of-white-space-devices-wsds.md)
@@ -25,4 +24,5 @@
 * [What is a White Space Database \(WSDB\) and White Space Database Administrator \(WSDBA\)?](what-is-a-white-space-database-wsdb-and-white-space-database-administrator-wsdba.md)
 * [What are Remote Rural Broadband Systems \(RRBS\)?](what-are-remote-rural-broadband-systems-rrbs.md)
 * [What is an Low-power apparatus \(LPA\)?](what-is-an-low-power-apparatus-lpa.md)
+* [I did not find answer to my question here. What do I do next?](i-did-not-find-answer-to-my-question-here-what-do-i-do-next.md)
 
