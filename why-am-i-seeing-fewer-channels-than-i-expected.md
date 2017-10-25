@@ -2,7 +2,7 @@ This is most likely due to separation distances that are mandated in addition to
 
 #### What are protected contours?
 
-A contour within which a station and its associated receivers or remote stations have protection from other devices operating in the same frequency bands and which might interfere with the station.There are contours around transmitters inside of which the transmitter is entitled to protection from interference. Contours are determined as described in [DBS-01 Section 9.2](http://www.ic.gc.ca/eic/site/smt-gst.nsf/eng/sf10928.html#s9.2) and [DBS-01 Annex B - Determination of the TV Broadcast Protected Contour](http://www.ic.gc.ca/eic/site/smt-gst.nsf/eng/sf10928.html#sB)
+It is a contour within which a station and its associated receivers or remote stations have protection from other devices operating in the same frequency bands and which might interfere with the station. There are contours around transmitters inside of which the transmitter is entitled to protection from interference. Contours are determined as described in [DBS-01 Section 9.2](http://www.ic.gc.ca/eic/site/smt-gst.nsf/eng/sf10928.html#s9.2) and [DBS-01 Annex B - Determination of the TV Broadcast Protected Contour](http://www.ic.gc.ca/eic/site/smt-gst.nsf/eng/sf10928.html#sB)
 
 #### What is a separation distance \(SD\)?
 
