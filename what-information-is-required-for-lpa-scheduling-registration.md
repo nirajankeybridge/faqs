@@ -9,9 +9,7 @@ A WSDB shall provide a facility for users of LPA to register scheduling and loca
 3. Valid email address for contact person;
 4. Phone number for contact person;
 5. Geographical coordinates \(see NAD83\) of the location or area\(s\) of operation where the LPA will be used;
-6. TV channels used by the LPA at the indicated site\(s\)
-   [Footnote2](http://www.ic.gc.ca/eic/site/smt-gst.nsf/eng/sf10928.html#fn2)
-   ;
+6. TV channels used by the LPA at the indicated site\(s\) \(see [Footnote2](http://www.ic.gc.ca/eic/site/smt-gst.nsf/eng/sf10928.html#fn2)\)
 7. Specific hours, days, weeks and/or months when the LPA will be used \(Note that on dates when an LPA is not in use, the site will not be offered protection from WSDs\); and
 8. The LPA's licence number.
 
