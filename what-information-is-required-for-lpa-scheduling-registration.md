@@ -21,7 +21,7 @@ A WSDB shall provide a facility for users of LPA to register scheduling and loca
 2. Under the point and radius option, the operational location\(s\) of the LPA can be defined using up to 25 geographical points at any one time, with a maximum radius of operation of 500 metres around any point; or
 3. Under the quadrilateral option, the operational location\(s\) of the LPA can be defined based on the edges of straight lines connecting the vertices \(geographic points\) of the quadrilateral.
    * 1. Each quadrilateral must be specified with four geographic points and the distance between any two adjacent points must be limited to 3 km.
-   * 2. In cases where an LPA occupies a larger area, up to four non-contiguous quadrilaterals may be registered.
+   * 1. In cases where an LPA occupies a larger area, up to four non-contiguous quadrilaterals may be registered.
 
 Online registration of LPA can be facilitated by directly accessing designated WSDBs as indicated on the following Industry Canada website:[http://www.ic.gc.ca/eic/site/smt-gst.nsf/eng/h\_sf10498.html](http://www.ic.gc.ca/eic/site/smt-gst.nsf/eng/h_sf10498.html).
 
@@ -29,5 +29,7 @@ Online registration of LPA can be facilitated by directly accessing designated W
 
 \(d\) All registrations shall be considered public.
 
-_Above information extracted from DBS-01 at http://www.ic.gc.ca/eic/site/smt-gst.nsf/eng/sf10928.html\#s7.2.3_
+Footnote 2: For an LPA that is used on a fixed basis, the WSDB shall only allow the registration of the frequency or frequencies specified on the licence. For ENG-type LPA it is not necessary to perform this check.
+
+_Above information extracted from DBS-01 at _[http://www.ic.gc.ca/eic/site/smt-gst.nsf/eng/sf10928.html\#s7.2.3](http://www.ic.gc.ca/eic/site/smt-gst.nsf/eng/sf10928.html#s7.2.3)
 
