@@ -16,3 +16,7 @@ Details regarding how separation distances are calculated are available in [DBS-
 
 A contour resulting from the sum of the protected contour and the separation distance which together define a new and larger contour.
 
+
+
+_Above information extracted from _[_DBS-01 at http://www.ic.gc.ca/eic/site/smt-gst.nsf/eng/sf10928.html\#s4_](http://www.ic.gc.ca/eic/site/smt-gst.nsf/eng/sf10928.html#s4)
+
