@@ -22,4 +22,5 @@
 * [What is a TV Receive Site \(TVRX\)?](what-is-a-tv-receive-site-tvrx.md)
 * [What is a White Space Device \(WSD\)?  What are different types/categories of White Space Devices \(WSDs\)?](what-is-a-white-space-device-wsd-what-are-different-types-categories-of-white-space-devices-wsds.md)
 * [What is Industry Canada Identification \(IC ID\) and Device Type Identifier?](what-is-industry-canada-identification-ic-id-and-device-type-identifier.md)
+* [What is a White Space Database \(WSDB\) and White Space Database Administrator \(WSDBA\)?](what-is-a-white-space-database-wsdb-and-white-space-database-administrator-wsdba.md)
 
