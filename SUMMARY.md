@@ -28,7 +28,7 @@
 * [What information is required to register TV Receive Site and Cable TV Head-ends?](what-information-is-required-to-register-tv-receive-site-and-cable-tv-head-ends.md)
 * [What information is required for LPA Scheduling registration?](what-information-is-required-for-lpa-scheduling-registration.md)
 * [What information is required for Developmental Licenses \(DEV\) registration?](what-information-is-required-for-developmental-licenses-dev-registration.md)
-* What do I do if I am experiencing interference for my licensed and registered operation?
+* [What do I do if I am experiencing interference for my licensed and registered operation?](what-do-i-do-if-i-am-experiencing-interference-for-my-licensed-and-registered-operation.md)
 * [I did not find answer to my question here. What do I do next?](i-did-not-find-answer-to-my-question-here-what-do-i-do-next.md)
 * [Is the WSDB secure? What security measures are implemented?](is-the-wsdb-secure-what-security-measures-are-implemented.md)
 * [How far into the future can I learn about channel availability?](how-far-into-the-future-can-i-learn-about-channel-availability.md)
