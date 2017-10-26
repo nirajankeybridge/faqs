@@ -30,4 +30,5 @@
 * [What information is required for Developmental Licenses \(DEV\) registration?](what-information-is-required-for-developmental-licenses-dev-registration.md)
 * What do I do if I am experiencing interference for my licensed and registered operation?
 * [I did not find answer to my question here. What do I do next?](i-did-not-find-answer-to-my-question-here-what-do-i-do-next.md)
+* [Is the WSDB secure? What security measures are implemented?](is-the-wsdb-secure-what-security-measures-are-implemented.md)
 
