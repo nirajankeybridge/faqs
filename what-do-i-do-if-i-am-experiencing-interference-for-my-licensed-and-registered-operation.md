@@ -1,12 +1,12 @@
 Key Bridge WSDBA and Industry Canada can work together to help you in analyzing the interference.
 
-To aid with the investigation, log files are maintained regarding WSD registrations for at least 60 days. 
+To aid with the investigation, log files are maintained regarding WSD registrations for at least 60 days.
 
-Additionally, Industry Canada can also unauthorize use of certain channels by certain WSDs. 
+Additionally, Industry Canada can also unauthorize use of certain channels by certain WSDs.
 
 However, on-the-ground enforcement is currently out of scope for WSDBA.
 
-[Section 18 of the DBS-01 — White Space Database Specifications](http://www.ic.gc.ca/eic/site/smt-gst.nsf/eng/sf10928.html#s18) states:
+[Section 18 of the DBS-01 — White Space Database Specifications](http://www.ic.gc.ca/eic/site/smt-gst.nsf/eng/sf10928.html#s18) is as follows:
 
 > ## 18. Interference Response
 >
