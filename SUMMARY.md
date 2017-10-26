@@ -32,4 +32,5 @@
 * [I did not find answer to my question here. What do I do next?](i-did-not-find-answer-to-my-question-here-what-do-i-do-next.md)
 * [Is the WSDB secure? What security measures are implemented?](is-the-wsdb-secure-what-security-measures-are-implemented.md)
 * [How far into the future can I learn about channel availability?](how-far-into-the-future-can-i-learn-about-channel-availability.md)
+* [How often does WSDB synchronize with Industry Canada licensing information?](how-often-does-wsdb-synchronize-with-industry-canada-licensing-information.md)
 
