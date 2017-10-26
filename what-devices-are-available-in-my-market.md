@@ -1,2 +1,2 @@
-\(running list of certified products for customers\)
+These are the certified products available for customers:
 
