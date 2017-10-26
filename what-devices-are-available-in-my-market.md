@@ -1,2 +1,2 @@
-These are the certified products available for customers:
+These are the certified devices available for customers:
 
