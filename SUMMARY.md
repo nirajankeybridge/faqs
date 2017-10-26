@@ -29,10 +29,10 @@
 * [What information is required for LPA Scheduling registration?](what-information-is-required-for-lpa-scheduling-registration.md)
 * [What information is required for Developmental Licenses \(DEV\) registration?](what-information-is-required-for-developmental-licenses-dev-registration.md)
 * [What do I do if I am experiencing interference for my licensed and registered operation?](what-do-i-do-if-i-am-experiencing-interference-for-my-licensed-and-registered-operation.md)
-* [I did not find answer to my question here. What do I do next?](i-did-not-find-answer-to-my-question-here-what-do-i-do-next.md)
 * [Is the WSDB secure? What security measures are implemented?](is-the-wsdb-secure-what-security-measures-are-implemented.md)
 * [How far into the future can I learn about channel availability?](how-far-into-the-future-can-i-learn-about-channel-availability.md)
 * [How often does WSDB synchronize with Industry Canada licensing information?](how-often-does-wsdb-synchronize-with-industry-canada-licensing-information.md)
 * [How often does WSDB synchronize with other peering WSDBs?](how-often-does-wsdb-synchronize-with-other-peering-wsdbs.md)
 * [Are U.S. stations and operations near the border protected from Canadian operations? Are Canadian stations and operations near the border  protected from U.S. operations?](are-us-stations-and-operations-near-the-border-protected-from-canadian-operations-are-canadian-stations-and-operations-near-the-border-protected-from-u-s-operations.md)
+* [I did not find answer to my question here. What do I do next?](i-did-not-find-answer-to-my-question-here-what-do-i-do-next.md)
 
