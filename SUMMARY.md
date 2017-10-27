@@ -2,7 +2,7 @@
 
 * [Introduction](README.md)
 * [I’m interested in learning more about using TVWS. How do I get started?](im-interested-in-learning-more-about-using-tvws-how-do-i-get-started.md)
-* [Does a White Space Device need a license to use TVWS?](do-i-need-a-license-to-use-tvws.md)
+* [Does a White Space Device \(WSD\) need a license to use TVWS?](do-i-need-a-license-to-use-tvws.md)
 * [What hardware do I need to make use of TVWS?](what-hardware-do-i-need-to-make-use-of-tvws.md)
 * [What are the relevant documents for TVWS in Canada?](what-are-the-relevant-documents-for-tvws-in-canada.md)
 * [Which whitespace channels are available for different device \(WSD\) types?](which-whitespace-channels-are-available-for-different-device-wsd-types.md)
