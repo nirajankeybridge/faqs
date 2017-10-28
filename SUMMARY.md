@@ -28,7 +28,7 @@
 * [What information is required for LPA Scheduling registration?](what-information-is-required-for-lpa-scheduling-registration.md)
 * [What information is required for Developmental Licenses \(DEV\) registration?](what-information-is-required-for-developmental-licenses-dev-registration.md)
 * [Is my transmission protected from interference while I’m using TVWS?](is-my-transmission-protected-from-interference-while-im-using-tvws.md)
-* [What do I do if I am experiencing interference for my licensed and registered operation?](what-do-i-do-if-i-am-experiencing-interference-for-my-licensed-and-registered-operation.md)
+* [What do I do if I suspect I am experiencing interference from a TVWS device \(WSD\) for my licensed and registered operation?](what-do-i-do-if-i-am-experiencing-interference-for-my-licensed-and-registered-operation.md)
 * [Is the WSDB secure? What security measures are implemented?](is-the-wsdb-secure-what-security-measures-are-implemented.md)
 * [How far into the future can I learn about channel availability?](how-far-into-the-future-can-i-learn-about-channel-availability.md)
 * [How often does WSDB synchronize with Industry Canada licensing information?](how-often-does-wsdb-synchronize-with-industry-canada-licensing-information.md)
