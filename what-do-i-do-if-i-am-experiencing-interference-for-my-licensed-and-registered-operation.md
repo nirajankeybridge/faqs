@@ -23,8 +23,6 @@ To aid with the investigation, log files are maintained regarding WSD registrati
 
 Additionally, Industry Canada can also unauthorize use of certain channels by certain WSDs.
 
-However, on-the-ground enforcement is out of scope for WSDBA.
-
 [Section 18 of the DBS-01 — White Space Database Specifications](http://www.ic.gc.ca/eic/site/smt-gst.nsf/eng/sf10928.html#s18) is as follows:
 
 > ## 18. Interference Response
@@ -34,5 +32,5 @@ However, on-the-ground enforcement is out of scope for WSDBA.
 > 1. Retain logs of WSD queries and responses for sixty \(60\) days to allow for audits in the case of interference reports. This information shall be provided to Industry Canada following a formal request by the Department; and
 > 2. Be capable of indicating, upon request by Industry Canada, that no channels are available when queried by a specific WSD or mode of WSDs. This capability is to be implemented such that a mode of a WSD, or all WSDs, can also be denied to channels on the basis of a geographic area defined by a point and radius, or by a quadrilateral defined by straight lines connecting four geographic points.
 
-
+However, on-the-ground enforcement is out of scope for WSDBA.
 
