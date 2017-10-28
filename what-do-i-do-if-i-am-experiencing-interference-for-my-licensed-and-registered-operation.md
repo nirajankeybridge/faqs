@@ -4,33 +4,20 @@ Key Bridge WSDBA and Industry Canada can work together to help you in analyzing 
 
 12.2 Interference Resolution Procedures
 
-In cases of harmful interference to authorized radio systems or services suspected to be caused by a WSD, the radio user experiencing such interference should report the problem to its nearest Industry Canada Spectrum Management office.
+In cases of harmful interference to authorized radio systems or services suspected to be caused by a WSD, the radio user experiencing such interference should report the problem to its nearest ISED Canada Spectrum Management office.A list of [ISED Canada’s offices](http://www.ic.gc.ca/eic/site/smt-gst.nsf/eng/sf01742.html) is provided in Radiocommunication Information Circular RIC-66, available at [http://www.ic.gc.ca/eic/site/smt-gst.nsf/eng/sf01742.html](http://www.ic.gc.ca/eic/site/smt-gst.nsf/eng/sf01742.html).
 
 In accordance with the [Radiocommunication Act](http://laws.justice.gc.ca/eng/acts/R-2/FullText.html), harmful interference is defined as “an adverse effect of electromagnetic energy from any emission, radiation or induction that \(a\) endangers the use or functioning of a safety-related radiocommunication system, or \(b\) significantly degrades or obstructs, or repeatedly interrupts, the use or functioning of radio apparatus or radio-sensitive equipment.”
 
-The procedure for investigating suspected harmful interference to authorized radiocommunication systems is set out in Section 4 of Industry Canada’s Spectrum Management Service Standards.
-
-
+The procedure for investigating suspected harmful interference to authorized radiocommunication systems is set out in Section 4 of [ISED Canada’s Spectrum Management Service Standards](http://www.ic.gc.ca/eic/site/smt-gst.nsf/eng/sf08802.html). A copy of the [Service Standards](http://www.ic.gc.ca/eic/site/smt-gst.nsf/eng/sf08802.html) is at [http://www.ic.gc.ca/eic/site/smt-gst.nsf/eng/sf08802.html](http://www.ic.gc.ca/eic/site/smt-gst.nsf/eng/sf08802.html).
 
 After confirming that the source of interference is a particular WSD, the Department may issue to the operator of the device a notice pursuant to paragraph 5\(1\)\(l\) of the Radiocommunication Act to cease or modify operation of this device immediately.
 
+Should the operator of the interference-causing WSD fail to comply with this noticeand/oris found to benon-compliantwith technical requirements outlined in [Radio Standards Specification RSS-222](http://www.ic.gc.ca/eic/site/smt-gst.nsf/eng/sf10930.html), ISED Canada will require the device owner to immediately cease operation of the device in question. In this case, the Department may also require the WSDBA, upon receipt of a written request from ISED Canada, to cease to provide available channels to the interference-causing device.
 
+ISED Canada will require the WSDBA to take appropriate corrective action to resolve interference concerns linked to the following:
 
-Should the operator of theinterference-causingWSD fail to comply with this noticeand/oris found to benon-compliantwith technical requirements outlined in Radio Standards Specification RSS-222, Industry Canada will require the device owner to immediately cease operation of the device in question. In this case, the Department may also require the WSDBA, upon receipt of a written request from Industry Canada, to cease to provide available channels to theinterference-causingdevice.
-
-
-
-Industry Canada will require the WSDBA to take appropriate corrective action to resolve interference concerns linked to the following:
-
-
-
-operating problems or deficiencies of a designated WSDB;
-
-and/or
-
-a designated WSDB’s failure to meet technical or operational requirements as set out in
-
-DBS-01
+* operating problems or deficiencies of a designated WSDB; and/or
+* a designated WSDB’s failure to meet technical or operational requirements as set out in DBS-01
 
 
 
