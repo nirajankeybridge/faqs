@@ -1,8 +1,8 @@
-WSD are license exempt and thus, by definition, receive no protection. However the White Space Database \(WSDB\) will coordinate channel assignments… or similar?
+WSD are license exempt and thus, by definition, receive no protection. However the White Space Database \(WSDB\) will coordinate channel assignments so no two devices are assigned same channels at the same location at the same time. 
 
 Protection is offered to licensed devices using bands that fall within the TVWS frequency range, but those devices are not using TVWS \(or WSD\), they are operating under different rules. i.e. BETS for broadcast.
 
-As long as your operation is licensed and registered on the portal with proper parameters, it will be protected accordingly against other operations registered on the site as per the protections set in the [DBS-01 — White Space Database Specifications](http://www.ic.gc.ca/eic/site/smt-gst.nsf/eng/sf10928.html).
+So as long as your operation is registered on the portal with proper parameters, it will be protected accordingly against other operations registered on the site as per the protections set in the [DBS-01 — White Space Database Specifications](http://www.ic.gc.ca/eic/site/smt-gst.nsf/eng/sf10928.html).
 
 However, please note that on-the-ground enforcement to check unauthorized transmission is beyond the scope of WSDBA.
 
