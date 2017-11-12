@@ -2,7 +2,7 @@
     "plugins": [ "theme-faq", 
     				"-fontsettings",
         			"-sharing" ],
-    "title": "Key Bridge Canada TVWS <br/> Frequently Asked Questions (FAQs) <br/> Questions Fréquentes",
+    "title": "Key Bridge Canada TVWS <br/> Frequently Asked Questions (FAQs)",
     "styles": {
         "website": "styles/website.css"
     }

@@ -1,0 +1,8 @@
+** Hauteur de l'antenne au-dessus du sol moyen (HASM, Height Above Average Terrain HAAT) :** Hauteur du centre de rayonnement de l'antenne au-dessus de l'élévation moyenne du terrain (EMT) entre 3 km et 16 km, mesurée à des intervalles de 100 m (Dans le cas de la télédiffusion à faible puissance, on mesurera plutôt l'élévation entre 0 et 5 km) en suivant un rayon précis à partir de l'antenne. L'EMT doit être calculée selon les données d'une seconde d'arc des Données numériques d'élévation du Canada (DNEC) de Geobase 50K pour le Canada, les données d'une seconde d'arc du United States Geological Survey National Elevation Dataset (USGS NED) pour les États-Unis continentaux et les données de deux secondes d'arc du NED pour l'Alaska. Le calcul de la HASM ne s'arrête pas aux frontières ni aux cours d'eau. Chaque calcul de la HASM doit tenir compte de l'ensemble du segment de rayon entre 3 et 16 km et ne doit pas être tronqué à une frontière ni devant des cours d'eau.
+
+**Hauteur maximale de l'antenne au-dessus du sol moyen (HASMmax, maxHAAT) :** La plus grande valeur de la HASM mesurée sur huit rayons espacés de 45 degrés d'azimut à partir du nord vrai.
+
+** HASM dans la direction de la station de télévision concernée :** La plus grande valeur de la HASM mesurée sur des rayons espacés de 5 degrés d'azimut dans un arc de ± 22,5 degrés à partir d'une ligne entre l'emplacement du dispositif d'espaces blancs et le point le plus près sur le contour dans la direction de l'émetteur de télévision concerné.
+
+_Informations ci-dessus extraites de _[_CBD-01 — Cahier des charges sur les bases de données d’espaces blancs à http://www.ic.gc.ca/eic/site/smt-gst.nsf/fra/sf10928.html\#s4_](http://www.ic.gc.ca/eic/site/smt-gst.nsf/fra/sf10928.html#s4)
+

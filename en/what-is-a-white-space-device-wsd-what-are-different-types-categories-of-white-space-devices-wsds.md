@@ -2,6 +2,8 @@
 
 A radio apparatus that operates in the WS frequency bands using dynamic spectrum access techniques.
 
+**Fixed WSD:** A device that transmits and/or receives radiocommunication signals at a specified fixed location. The fixed device selects potential operational frequencies from a list of available channels, as provided by a WSDB.
+
 **Personal/Portable WSD: **A personal/portable WSD is a device that transmits and/or receives radiocommunication signals while stationary or in motion at unspecified fixed points.
 
 **Mode I Personal/Portable Device: **A personal/portable WSD that does not use an internal geolocation capability and does not directly access a WSDB to obtain a list of available radio frequency channels.
