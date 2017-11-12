@@ -75,7 +75,7 @@
 ### Radioastronomie
 * [Quels sont les sites d'astronomie et les observatoires de la radio qui sont protégés?](what-are-the-radio-astronomy-sites-and-observatories-protected.md)
 
-### Near-Border Operations
+### Opérations à proximité de la frontière (Near-Border Operations)
 * [Les stations et les opérations américaines sont-elles situées à proximité de la frontière protégée des opérations canadiennes? Les stations et les opérations canadiennes sont-elles situées à proximité de la frontière protégée des opérations américaines?](are-us-stations-and-operations-near-the-border-protected-from-canadian-operations-are-canadian-stations-and-operations-near-the-border-protected-from-u-s-operations.md)
 
 
